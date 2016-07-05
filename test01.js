@@ -1,6 +1,6 @@
 console.log('Hello, world!');
 
-var myAddress = 'http://www.citroen.fr';
+var myAddress = 'http://www.urlToTest.com';
 
 var page = require('webpage').create();
 
